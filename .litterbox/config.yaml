@@ -1,0 +1,9 @@
+org: CSAT
+org_name: Carleton Satellite Design Project
+start_number: 10001
+pn_base_digits: 5
+pn_variant_digits: 2
+assembly_variant_start: 50
+toolbox: none
+min_litterbox_version: 1.0.4
+format_version: 1

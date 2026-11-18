@@ -1,0 +1,5 @@
+# Litterbox: temporary and lock files.
+.tmp-*
+~$*
+*.bak
+Thumbs.db

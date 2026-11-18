@@ -1,0 +1,86 @@
+# >>> Litterbox rules, version 4. Litterbox updates the lines down to '# <<< Litterbox'; don't edit them.
+*.[sS][lL][dD][pP][rR][tT] filter=lfs diff=lfs merge=lfs -text lockable
+*.[sS][lL][dD][aA][sS][mM] filter=lfs diff=lfs merge=lfs -text lockable
+*.[sS][lL][dD][dD][rR][wW] filter=lfs diff=lfs merge=lfs -text lockable
+*.[sS][tT][eE][pP] filter=lfs diff=lfs merge=lfs -text lockable
+*.[sS][tT][pP] filter=lfs diff=lfs merge=lfs -text lockable
+*.[pP][dD][fF] filter=lfs diff=lfs merge=lfs -text lockable
+*.[iI][gG][eE][sS] filter=lfs diff=lfs merge=lfs -text lockable
+*.[iI][gG][sS] filter=lfs diff=lfs merge=lfs -text lockable
+*.[xX]_[tT] filter=lfs diff=lfs merge=lfs -text lockable
+*.[xX]_[bB] filter=lfs diff=lfs merge=lfs -text lockable
+*.[sS][aA][tT] filter=lfs diff=lfs merge=lfs -text lockable
+*.[sS][tT][lL] filter=lfs diff=lfs merge=lfs -text lockable
+*.3[mM][fF] filter=lfs diff=lfs merge=lfs -text lockable
+*.[dD][xX][fF] filter=lfs diff=lfs merge=lfs -text lockable
+*.[dD][wW][gG] filter=lfs diff=lfs merge=lfs -text lockable
+*.[eE][pP][rR][tT] filter=lfs diff=lfs merge=lfs -text lockable
+*.[eE][aA][sS][mM] filter=lfs diff=lfs merge=lfs -text lockable
+*.[eE][dD][rR][wW] filter=lfs diff=lfs merge=lfs -text lockable
+*.[pP][nN][gG] filter=lfs diff=lfs merge=lfs -text
+*.[jJ][pP][gG] filter=lfs diff=lfs merge=lfs -text
+*.[jJ][pP][eE][gG] filter=lfs diff=lfs merge=lfs -text
+*.[gG][iI][fF] filter=lfs diff=lfs merge=lfs -text
+*.[bB][mM][pP] filter=lfs diff=lfs merge=lfs -text
+*.[tT][iI][fF] filter=lfs diff=lfs merge=lfs -text
+*.[tT][iI][fF][fF] filter=lfs diff=lfs merge=lfs -text
+*.[wW][eE][bB][pP] filter=lfs diff=lfs merge=lfs -text
+*.[hH][eE][iI][cC] filter=lfs diff=lfs merge=lfs -text
+*.[dD][oO][cC] filter=lfs diff=lfs merge=lfs -text
+*.[dD][oO][cC][xX] filter=lfs diff=lfs merge=lfs -text
+*.[xX][lL][sS] filter=lfs diff=lfs merge=lfs -text
+*.[xX][lL][sS][xX] filter=lfs diff=lfs merge=lfs -text
+*.[xX][lL][sS][mM] filter=lfs diff=lfs merge=lfs -text
+*.[pP][pP][tT] filter=lfs diff=lfs merge=lfs -text
+*.[pP][pP][tT][xX] filter=lfs diff=lfs merge=lfs -text
+*.[zZ][iI][pP] filter=lfs diff=lfs merge=lfs -text
+*.7[zZ] filter=lfs diff=lfs merge=lfs -text
+*.[rR][aA][rR] filter=lfs diff=lfs merge=lfs -text
+*.[mM][pP]4 filter=lfs diff=lfs merge=lfs -text
+*.[mM][oO][vV] filter=lfs diff=lfs merge=lfs -text
+*.[aA][vV][iI] filter=lfs diff=lfs merge=lfs -text
+*.[pP][rR][tT][dD][oO][tT] filter=lfs diff=lfs merge=lfs -text
+*.[aA][sS][mM][dD][oO][tT] filter=lfs diff=lfs merge=lfs -text
+*.[dD][rR][wW][dD][oO][tT] filter=lfs diff=lfs merge=lfs -text
+*.[sS][lL][dD][dD][rR][tT] filter=lfs diff=lfs merge=lfs -text
+*.[sS][lL][dD][lL][fF][pP] filter=lfs diff=lfs merge=lfs -text
+*.[sS][lL][dD][bB][lL][kK] filter=lfs diff=lfs merge=lfs -text
+cad/** filter=lfs diff=lfs merge=lfs -text lockable
+PN-logs/*.yaml lockable
+cancelled-revs/** filter=lfs diff=lfs merge=lfs -text
+documents/** filter=lfs diff=lfs merge=lfs -text lockable
+DOC-logs/*.yaml lockable
+*.[oO][dD][tT] filter=lfs diff=lfs merge=lfs -text
+*.[oO][dD][sS] filter=lfs diff=lfs merge=lfs -text
+*.[oO][dD][pP] filter=lfs diff=lfs merge=lfs -text
+*.[oO][dD][gG] filter=lfs diff=lfs merge=lfs -text
+*.[rR][tT][fF] filter=lfs diff=lfs merge=lfs -text
+*.[vV][sS][dD] filter=lfs diff=lfs merge=lfs -text
+*.[vV][sS][dD][xX] filter=lfs diff=lfs merge=lfs -text
+*.[mM][pP][pP] filter=lfs diff=lfs merge=lfs -text
+*.[pP][uU][bB] filter=lfs diff=lfs merge=lfs -text
+*.[oO][nN][eE] filter=lfs diff=lfs merge=lfs -text
+*.[kK][eE][yY] filter=lfs diff=lfs merge=lfs -text
+*.[pP][aA][gG][eE][sS] filter=lfs diff=lfs merge=lfs -text
+*.[nN][uU][mM][bB][eE][rR][sS] filter=lfs diff=lfs merge=lfs -text
+*.[pP][sS][dD] filter=lfs diff=lfs merge=lfs -text
+*.[aA][iI] filter=lfs diff=lfs merge=lfs -text
+*.[iI][nN][dD][dD] filter=lfs diff=lfs merge=lfs -text
+*.[eE][pP][sS] filter=lfs diff=lfs merge=lfs -text
+*.[aA][fF][dD][eE][sS][iI][gG][nN] filter=lfs diff=lfs merge=lfs -text
+*.[xX][cC][fF] filter=lfs diff=lfs merge=lfs -text
+*.[tT][aA][rR] filter=lfs diff=lfs merge=lfs -text
+*.[gG][zZ] filter=lfs diff=lfs merge=lfs -text
+*.[tT][gG][zZ] filter=lfs diff=lfs merge=lfs -text
+*.[bB][zZ]2 filter=lfs diff=lfs merge=lfs -text
+*.[xX][zZ] filter=lfs diff=lfs merge=lfs -text
+*.[mM][pP]3 filter=lfs diff=lfs merge=lfs -text
+*.[wW][aA][vV] filter=lfs diff=lfs merge=lfs -text
+*.[mM]4[aA] filter=lfs diff=lfs merge=lfs -text
+*.[mM][kK][vV] filter=lfs diff=lfs merge=lfs -text
+*.[wW][mM][vV] filter=lfs diff=lfs merge=lfs -text
+*.[wW][eE][bB][mM] filter=lfs diff=lfs merge=lfs -text
+*.[mM]4[vV] filter=lfs diff=lfs merge=lfs -text
+toolbox/** filter=lfs diff=lfs merge=lfs -text lockable
+cad/cancelled-revs/** filter=lfs diff=lfs merge=lfs -text lockable
+# <<< Litterbox
