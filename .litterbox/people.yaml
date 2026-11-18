@@ -1,10 +1,6 @@
 roles:
-- Responsible Engineer
-- Manufacturing
-- Quality
-- Analysis
-- Manager
 - Chief
+- Structures Team
 people:
 - id: graceful19
   name: Grace Smith
@@ -12,7 +8,8 @@ people:
   host_names:
   - graceful19
   access: owner
-  roles: []
+  roles:
+  - Structures Team
   active: true
 superuser_roles:
 - Chief
