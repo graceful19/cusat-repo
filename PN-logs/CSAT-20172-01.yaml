@@ -13,13 +13,55 @@ created_by: Grace Smith
 created_by_id: graceful19
 created_at: '2026-11-18T16:17:45Z'
 approvals: []
+references:
+  A:
+  - CSAT-10170-01_A
+  - CSAT-10171-01_A
+  - CSAT-10173-01_A
+  - CSAT-10174-01_A
+quantities:
+  A:
+    CSAT-10170-01_A: 1
+    CSAT-10171-01_A: 1
+    CSAT-10173-01_A: 1
+    CSAT-10174-01_A: 1
+other_files:
+  A: []
 configurations:
   A:
-    own: []
+    own:
+    - name: Foot Switch Assembly
+      id: 0
     named: Foot Switch Assembly
+    uses:
+      CSAT-10170-01_A:
+      - 9657K237 Compression Spring
+      CSAT-10171-01_A:
+      - Baseplate Foot With Switch
+      CSAT-10173-01_A:
+      - Plunger Pin
+      CSAT-10174-01_A:
+      - Separation Switch Nut
 history:
 - event: created
   by: Grace Smith
   at: '2026-11-18T16:17:45Z'
   revision: A
   by_id: graceful19
+- event: references_updated
+  by: Grace Smith
+  at: '2026-11-18T16:18:08Z'
+  revision: A
+  by_id: graceful19
+  references:
+    A:
+    - CSAT-10170-01_A
+    - CSAT-10171-01_A
+    - CSAT-10173-01_A
+    - CSAT-10174-01_A
+  quantities:
+    A:
+      CSAT-10170-01_A: 1
+      CSAT-10171-01_A: 1
+      CSAT-10173-01_A: 1
+      CSAT-10174-01_A: 1
