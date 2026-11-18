@@ -11,5 +11,21 @@ people:
   roles:
   - Structures Team
   active: true
+- id: raven-corbeau
+  name: Raven Corbeau
+  email: ravencorbeau@cmail.carleton.ca
+  host_names: []
+  access: member
+  roles:
+  - Structures Team
+  active: true
+- id: elli-vicchiarelli
+  name: Elli Vicchiarelli
+  email: ellivicchiarelli@cmail.carleton.ca
+  host_names: []
+  access: member
+  roles:
+  - Structures Team
+  active: true
 superuser_roles:
 - Chief
