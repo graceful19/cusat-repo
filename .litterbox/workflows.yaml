@@ -1,0 +1,15 @@
+workflows:
+  release:
+    T1:
+      allow_same_person: false
+      requester_may_sign: true
+      signoffs:
+      - roles:
+        - Structures Team
+  reopen:
+    T1:
+      allow_same_person: false
+      requester_may_sign: true
+      signoffs:
+      - roles:
+        - Structures Team
