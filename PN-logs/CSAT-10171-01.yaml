@@ -1,0 +1,25 @@
+format: 1
+org: CSAT
+pn: '10171-01'
+revision: A
+released_revision: ''
+name: Baseplate Foot With Switch
+description: Baseplate Foot_With Switch.SLDPRT
+status: in_work
+cots: false
+imported: true
+import_path: C:\Users\Owner\Documents\CUSat Port to Litterbox\SW files\Baseplate Foot_With Switch.SLDPRT
+created_by: Grace Smith
+created_by_id: graceful19
+created_at: '2026-11-18T16:17:45Z'
+approvals: []
+configurations:
+  A:
+    own: []
+    named: Baseplate Foot With Switch
+history:
+- event: created
+  by: Grace Smith
+  at: '2026-11-18T16:17:45Z'
+  revision: A
+  by_id: graceful19
