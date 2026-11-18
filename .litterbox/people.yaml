@@ -1,0 +1,18 @@
+roles:
+- Responsible Engineer
+- Manufacturing
+- Quality
+- Analysis
+- Manager
+- Chief
+people:
+- id: graceful19
+  name: Grace Smith
+  email: gracesmith@cmail.carleton.ca
+  host_names:
+  - graceful19
+  access: owner
+  roles: []
+  active: true
+superuser_roles:
+- Chief
