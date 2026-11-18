@@ -80,3 +80,18 @@ history:
   files:
   - cad/CSAT-20172-01_A.SLDASM
   comment: Fixed retaining nut mates
+- event: checked_out
+  by: Grace Smith
+  at: '2026-11-18T16:23:32Z'
+  revision: A
+  by_id: graceful19
+  files:
+  - cad/CSAT-20172-01_A.SLDASM
+- event: checked_in
+  by: Grace Smith
+  at: '2026-11-18T16:26:24Z'
+  revision: A
+  by_id: graceful19
+  files:
+  - cad/CSAT-20172-01_A.SLDASM
+  comment: More mates
