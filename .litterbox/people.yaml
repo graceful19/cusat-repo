@@ -22,7 +22,8 @@ people:
 - id: elli-vicchiarelli
   name: Elli Vicchiarelli
   email: ellivicchiarelli@cmail.carleton.ca
-  host_names: []
+  host_names:
+  - Elli-Vicc
   access: member
   roles:
   - Structures Team
