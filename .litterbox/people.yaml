@@ -28,5 +28,14 @@ people:
   roles:
   - Structures Team
   active: true
+- id: rachel-h
+  name: Rachel H
+  email: rachelhough@cmail.carleton.ca
+  host_names:
+  - Pyrae13
+  access: member
+  roles:
+  - Structures Team
+  active: true
 superuser_roles:
 - Chief
